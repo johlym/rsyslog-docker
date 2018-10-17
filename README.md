@@ -1,7 +1,7 @@
-le-docker
+rsyslog-docker
 =========
 
-Logentries/Docker integration examples
+rsyslog/Docker integration examples
 
 rsyslog
 ===
